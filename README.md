@@ -1,14 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntun&weight=300&pause=1000&color=355880&width=435&lines=Seja+Bem+Vindo(a);Meu+nome+%C3%A9+Eduarda+De+F%C3%A1tima;Sou+Desenvolvedora+Back-end+Java!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntun&weight=300&pause=1000&color=355880&width=435&lines=%E2%81%9B%E2%80%A4%E2%81%96%E2%97%9C%E2%97%87Seja+Bem+Vindo(a)%E2%97%9D%E2%97%87%E2%81%9A%E2%81%9B%E2%80%A5;Meu+nome+%C3%A9+Eduarda+de+F%C3%A1tima;Sou+Desenvolvedora+Back-end+Java!" alt="Typing SVG" /></a>
 #
 <table>
   <tr>
     <td>
       <p align="left">
         <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Estudante de Análise de Desenvolvimento de Sistemas, aonde estou             aprimorando minhas habilidades em desenvolvimento de software.<br>
-        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Cursos paralelos: Java Completo.<br> 
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Estudante de Análise de Desenvolvimento de Sistemas, aonde estou             aprimorando minhas habilidades em desenvolvimento de software.<br>
+        <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Cursos: Java Completo.<br> 
      
 </td>
    
@@ -53,17 +53,5 @@
 
 </p>
 
-
-──────────────────────────୨ৎ────────────────────────────────
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudaeduarda23/dudaeduarda23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudaeduarda23/dudaeduarda23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dudaeduarda23/dudaeduarda23/output/pacman-contribution-graph.svg" width="100%vw" >
-</picture>
-
-</div>
 
 
