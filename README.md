@@ -6,7 +6,6 @@
   <tr>
     <td>
       <p align="left">
-        <strong>Sou desenvolvedora de software, apaixonada por criar soluções inovadoras! ⭐</strong><br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Estudante de Análise de Desenvolvimento de Sistemas, aonde estou             aprimorando minhas habilidades em desenvolvimento de software.<br>
         <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="25" height="25" /> Cursos: Java Completo.<br> 
      
